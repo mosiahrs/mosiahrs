@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mosiahrs
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning Responsive Web Design
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Responsive Web Design - FreeCodeCamp
+- 💞️ I’m looking to collaborate on Projects I can learn about while helping
 - 📫 How to reach me ...
 
 <!---
