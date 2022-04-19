@@ -1,15 +1,15 @@
 # Hello , I'm Mosiah Rabello 👋   
 
-I am a student of Systems Analysis and Development, an apprentice in the art of Web Development. From Brazil, and I am very interested in participating in Open Source projects. I love the idea of creating applications and the infinity of possibilities that this can bring about, I'm passionate about games and related things. I study freely, looking for the best online platforms.
+I am a student of Systems Analysis and Development, an apprentice in the art of Web Development, from Brazil; and I am very interested in participating in Open Source projects. I love the idea of creating applications and the infinity of possibilities that this can bring about, I'm passionate about games and related things. I study freely, looking for the best online platforms.
 
-Currently studying the following technologies:
-* HTML5
-* CSS3
-* Java Script
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+Learned:
 
-##### I aim to become a great front end developer
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"/> 
 
+Currently learning the following technologies:
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />
 
 
 <!---
