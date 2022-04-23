@@ -13,7 +13,9 @@ Currently learning the following technologies:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="38" height="38" />
 
+.
 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&langs_count=7&theme=dracula"/>
 <!---
 mosiahrs/mosiahrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
