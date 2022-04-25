@@ -1,9 +1,12 @@
 ## Hello, World! :wave:
 
 <div align="center">
-
-  Hi, I'm <b>Mosiah Rabello</b>  
-Front-End Development Beginner && Systems analysis and development student  
+  
+<img src="https://1.bp.blogspot.com/-BzYzb1CEWS8/YGhM-qzP3DI/AAAAAAAAVOg/45V-H3nQZQwkDHoWLhdImzJusCqeRXylwCLcBGAsYHQ/s0/Bulbasaur.gif" width="90" />
+  
+.
+  
+Front-End Development Beginner / Systems analysis and development student  
 
 
   <b>Learning about</b>
