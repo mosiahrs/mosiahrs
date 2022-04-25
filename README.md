@@ -1,21 +1,71 @@
-# Hello , I'm Mosiah Rabello 👋   
+## Hello, World! :wave:
 
-I am a student of Systems Analysis and Development, an apprentice in the art of Web Development, from Brazil; and I am very interested in participating in Open Source projects. I love the idea of creating applications and the infinity of possibilities that this can bring about, I'm passionate about games and related things. 
-I study freely, looking for the best online platforms.
+<div align="center">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  Hi, I'm <b>Mosiah Rabello</b>  
+Front-End Development Beginner && Systems analysis and development student  
 
-Learned:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"/> 
+  <b>Learning about</b>
+  
+<img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25" />
 
-Currently learning the following technologies:
+    
+. 
+  
+    
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const mosiahrs = {
+    personal: {
+        fullName: 'Mosiah Rabello',
+        birthDate: '1993-05-06',
+        interests: ['Books', 'games', 'language learning'],
+        motivation: [
+            'Create intelligent solutions to real-life problems through technology',
+            'Making technology inclusive for the suburbs people',
+        ],
+    },
+    Education: {
+        'Studing Systems analysis and development' on 'Universidade Cruzeiro do Sul'
+    },
+    technical: {
+        technologies: {
+            Learned: {
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['styled-components', 'Bootstrap'],
+            },
+            Learning: {
+                Javascript: ['Vanilla JS', 'React', 'NodeJS']
+            },
+    }
+}
+```
+  </div>
+</details>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="38" height="38" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+  <a href="mailto:mosiahrabello@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-.
+  <a href="https://www.linkedin.com/in/mosiah-rabello/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  
+  
+  [![GitHub: mosiahrs](https://img.shields.io/github/followers/mosiahrs?label=follow&style=social)](https://github.com/mosiahrs)
+  
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&langs_count=7&theme=dracula"/>
+  
+</div>
+
+
+
+
 <!---
 mosiahrs/mosiahrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
