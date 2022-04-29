@@ -2,9 +2,9 @@
 
 <div align="center">
   
-<img src="https://1.bp.blogspot.com/-BzYzb1CEWS8/YGhM-qzP3DI/AAAAAAAAVOg/45V-H3nQZQwkDHoWLhdImzJusCqeRXylwCLcBGAsYHQ/s0/Bulbasaur.gif" width="90" />
+<img src="https://static.wikia.nocookie.net/pokemon/images/0/0a/Charmander_SS.gif/revision/latest/scale-to-width-down/281?cb=20200107231842" width="80" />
   
-.
+
   
 Front-End Development Beginner / Systems analysis and development student  
 
