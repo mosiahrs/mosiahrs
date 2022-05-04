@@ -9,7 +9,7 @@
 Front-End Development Beginner / Systems analysis and development student  
 
 
-  <b>Learning about</b>
+  Learning about:
   
 <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
