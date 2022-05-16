@@ -2,12 +2,13 @@
 
 <div align="center">
   
-<img src="https://1.bp.blogspot.com/-MYtmyCfdo6w/YGhUtxrcIBI/AAAAAAAAVO0/L7jOvhQef7kpTz06MPgrMkr0CDIuMRGhACLcBGAsYHQ/s0/Charmander.gif" width="80" />
   
-
+    
   
-Front-End Development Beginner / Systems analysis and development student  
-
+<img src="https://1.bp.blogspot.com/-MYtmyCfdo6w/YGhUtxrcIBI/AAAAAAAAVO0/L7jOvhQef7kpTz06MPgrMkr0CDIuMRGhACLcBGAsYHQ/s0/Charmander.gif" width="70" />
+  
+  Front-End Development Beginner / Systems analysis and development student
+  
 
   Learning about:
   
