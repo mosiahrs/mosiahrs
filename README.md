@@ -16,8 +16,7 @@ Front-End Development Beginner / Systems analysis and development student
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25" />
 
-    
-. 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact)](https://github.com/mosiahrs/github-readme-stats)
   
     
 <details>
