@@ -52,14 +52,12 @@ const mosiahrs = {
  
 #### Contact:
   
-  <a href="mailto:mosiahrabello@gmail.com" alt="Gmail">
+ [![GitHub: mosiahrs](https://img.shields.io/github/followers/mosiahrs?label=follow&style=social)](https://github.com/mosiahrs) 
+ <a href="mailto:mosiahrabello@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
   <a href="https://www.linkedin.com/in/mosiah-rabello/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
   
-  [![GitHub: mosiahrs](https://img.shields.io/github/followers/mosiahrs?label=follow&style=social)](https://github.com/mosiahrs)
-  
-
   
 </div>
 
