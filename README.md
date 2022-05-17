@@ -1,26 +1,9 @@
 ## Hello, World! :wave:
 
-<div align="center">
-  
-  
-    
-  
+<div align="center"> 
+ 
 <img src="https://1.bp.blogspot.com/-MYtmyCfdo6w/YGhUtxrcIBI/AAAAAAAAVO0/L7jOvhQef7kpTz06MPgrMkr0CDIuMRGhACLcBGAsYHQ/s0/Charmander.gif" width="70" />
-  
-  Front-End Development Beginner / Systems analysis and development student
-  
-
-  Learning about:
-  
-<img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact)](https://github.com/mosiahrs/github-readme-stats)
-  
-    
-<details>
+  <details>
   <summary> More about me</summary>
 <div align="left">
  
@@ -52,13 +35,25 @@ const mosiahrs = {
 ```
   </div>
 </details>
+</div>
+<div align="justify">  
 
+  
+
+#### Learning about:
+  
+<img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25" />
+
+ 
+#### Contact:
+  
   <a href="mailto:mosiahrabello@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
   <a href="https://www.linkedin.com/in/mosiah-rabello/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-  
   
   [![GitHub: mosiahrs](https://img.shields.io/github/followers/mosiahrs?label=follow&style=social)](https://github.com/mosiahrs)
   
