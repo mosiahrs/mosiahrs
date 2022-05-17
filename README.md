@@ -25,10 +25,11 @@ const mosiahrs = {
         technologies: {
             Learned: {
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['styled-components', 'Bootstrap'],
+                CSS: ['styled-components', 'Bootstrap']
             },
             Learning: {
-                Javascript: ['Vanilla JS', 'React', 'NodeJS']
+                Javascript: ['Vanilla JS', 'NodeJS'],
+                Database: ['SQL']
             },
     }
 }
@@ -44,8 +45,9 @@ const mosiahrs = {
   
 <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25" />
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
 
  
 #### Contact:
