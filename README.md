@@ -1,33 +1,6 @@
-## Hello, I'm Mosiah!! :wave:
+<h1 align="center"> Hello, I'm Mosiah!! :wave: </h1>
 
-<div>  
- 🚀 Skills :
-<div>  
-<img src="https://img.shields.io/badge/html-eb8034?&style=for-the-badge&logo=html5&logoColor=white" height="23"/>
-<img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="23"/>
-<img src="https://img.shields.io/badge/GIT-ff2e12?style=for-the-badge&logo=git&logoColor=black" height="23=" />
- </div>
-
- <br>
- 
- 📚 Learning:
-<div>
-<img src="https://img.shields.io/badge/Bootstrap-9412ff?style=for-the-badge&logo=bootstrap&logoColor=white" height="23" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="23"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="23" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="23" />
- </div>
- 
-
- <br>
- 
- 📊 Stats:
- <p>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&langs_count=7&theme=dracula"/>
-</p> 
-</div>
-
-<div margin-top="5px" align="right"> 
+<div margin-top="5px" align="center"> 
  
 <img src="https://1.bp.blogspot.com/-MYtmyCfdo6w/YGhUtxrcIBI/AAAAAAAAVO0/L7jOvhQef7kpTz06MPgrMkr0CDIuMRGhACLcBGAsYHQ/s0/Charmander.gif" width="70" />
   <details>
@@ -65,7 +38,7 @@ const mosiahrs = {
 </details>
 </div>
 
-<div align="right">
+<div align="center">
 
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmosiahrs">
@@ -75,9 +48,11 @@ const mosiahrs = {
   <a href="https://www.linkedin.com/in/mosiah-rabello/" alt="Linkedin">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height="30" /></a>
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="30" />
+ 
+ <br><p>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&langs_count=7&theme=dracula"/>
+</p> 
 </div>
-
-
 
 
 <!---
