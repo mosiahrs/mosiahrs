@@ -47,8 +47,9 @@ const mosiahrs = {
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" height="30" /></a>
   <a href="https://www.linkedin.com/in/mosiah-rabello/" alt="Linkedin">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height="30" /></a>
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="30" />
- 
+ <a href="https://twitter.com/mosiahrs_" alt="Twitter">
+ <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="30" />
+ </a>
  <br><p>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&langs_count=7&theme=dracula"/>
 </p> 
