@@ -3,7 +3,8 @@
 <div margin-top="5px" align="center"> 
  
 <!--<img src="https://1.bp.blogspot.com/-MYtmyCfdo6w/YGhUtxrcIBI/AAAAAAAAVO0/L7jOvhQef7kpTz06MPgrMkr0CDIuMRGhACLcBGAsYHQ/s0/Charmander.gif" width="70" />-->
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280px"/> 
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250px"/>
+   
   <details>
    <summary>More about me</summary>
 
@@ -50,9 +51,8 @@ const mosiahrs = {
  <a href="https://twitter.com/mosiahrs_" alt="Twitter">
  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="30" />
  </a>
- <img align="center" margin-left="-20px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de1617e3-c614-4cc4-99e2-27f0a53f34bf/d2x4yt0-e429dc0c-21da-4367-998c-ac1e736aa07b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RlMTYxN2UzLWM2MTQtNGNjNC05OWUyLTI3ZjBhNTNmMzRiZlwvZDJ4NHl0MC1lNDI5ZGMwYy0yMWRhLTQzNjctOTk4Yy1hYzFlNzM2YWEwN2IuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U2ZDKd1aU1HLVraU6pO7Q2SqWIxGTkUfHMrPQ3JPyWc" />
- <br><p>
-<!--<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&langs_count=7&theme=dracula"/>-->
+ <br><br><p>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&langs_count=7&theme=dracula"/>
 </p> 
 
 </div>
