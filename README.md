@@ -3,7 +3,7 @@
 <div margin-top="5px" align="center"> 
  
 <!--<img src="https://1.bp.blogspot.com/-MYtmyCfdo6w/YGhUtxrcIBI/AAAAAAAAVO0/L7jOvhQef7kpTz06MPgrMkr0CDIuMRGhACLcBGAsYHQ/s0/Charmander.gif" width="70" />-->
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250px"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/61a7d39c-85f5-4786-a290-5311c415465c/dcm12sh-1df1a16a-f338-495e-a703-80143264344e.png/v1/fill/w_224,h_212,strp/pokemon_trainer_red__gbc__by_kermithh_dcm12sh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjEyIiwicGF0aCI6IlwvZlwvNjFhN2QzOWMtODVmNS00Nzg2LWEyOTAtNTMxMWM0MTU0NjVjXC9kY20xMnNoLTFkZjFhMTZhLWYzMzgtNDk1ZS1hNzAzLTgwMTQzMjY0MzQ0ZS5wbmciLCJ3aWR0aCI6Ijw9MjI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.JzYkFLpJ4R9X2Jp-UlujH4Rlr4vba3JOQSaV8P-cNb0" width="180px"/>
    
   <details>
    <summary>More about me</summary>
@@ -52,7 +52,7 @@ const mosiahrs = {
  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="30" />
  </a>
  <br><br><p>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&langs_count=7&theme=dracula"/>
+<!--<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&langs_count=7&theme=dracula"/>-->
 </p> 
 
 </div>
