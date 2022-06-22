@@ -13,7 +13,7 @@
 ``` js
 const mosiahrs = {
     personal: {
-        fullName: 'Mosiah Rabello',
+        fullName: 'Mosiah Silva',
         birthDate: '1993-05-06',
         interests: ['Books', 'games', 'language learning'],
         motivation: [
