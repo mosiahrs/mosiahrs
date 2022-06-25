@@ -1,11 +1,13 @@
-<h1 align="center"> Hello, I'm Mosiah!! :wave: </h1>
+<h1 align="center"> Hello, World! :wave: </h1>
 
-<div margin-top="5px" align="center"> 
+
  
 
-   
+
+<div margin-top="5px" align="center"> 
+   <img src="https://user-images.githubusercontent.com/100864562/175778791-4e63b0a4-5697-408f-904f-fd555eb5c5b0.png" width="70%">
   <details>
-   <summary>More about me</summary>
+   <summary><strong>More about me</strong></summary>
 
    <div align="left">
  
