@@ -7,6 +7,9 @@
 <div align="left">
 <h2>📄 &nbsp; About me :</h2>
 
+<details>
+    <summary> Click for more info</summary>
+    
 ``` js
 const mosiahrs = {
     personal: {
@@ -34,6 +37,7 @@ const mosiahrs = {
     }
 }
 ```
+</details>
 
 ---
 
