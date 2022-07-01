@@ -1,21 +1,9 @@
-<h1 align="center"> Hello, World! :wave: </h1>
-
-
- 
-
-
-<div margin-top="5px" align="center"> 
-   <img src="https://user-images.githubusercontent.com/100864562/175778791-4e63b0a4-5697-408f-904f-fd555eb5c5b0.png" width="500px">
-  <details>
-   <summary><strong>More about me</strong></summary>
-
-   <div align="left">
+<div align="left">
  
 ``` js
 const mosiahrs = {
     personal: {
         fullName: 'Mosiah Silva',
-        birthDate: '1993-05-06',
         interests: ['Books', 'games', 'language learning'],
         motivation: [
             'Create intelligent solutions to real-life problems through technology',
@@ -23,13 +11,14 @@ const mosiahrs = {
         ],
     },
     Education: {
-        'Studing Systems analysis and development' on 'Universidade Cruzeiro do Sul'
+        'Studing Systems analysis and development on Universidade Cruzeiro do Sul',
+        'Jr. Developer Academy on Startse University'
     },
     technical: {
         technologies: {
             Learned: {
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['styled-components', 'Bootstrap']
+                CSS: ['styled-components', 'responsive']
             },
             Learning: {
                 Javascript: ['Vanilla JS', 'NodeJS'],
@@ -38,11 +27,29 @@ const mosiahrs = {
     }
 }
 ```
-  </div>
-</details>
-</div>
+
+---
+
+<div align="left">
+<h3> 🛠 &nbsp;Languages and Tools :</h3>
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" />
+          
+</p>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <div align="center">
+<h4>Contat-me</h4>
  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmosiahrs">
 <img src ="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" height="30"/></a>
  <a href="mailto:mosiahrabello@gmail.com" alt="Gmail">
@@ -52,15 +59,6 @@ const mosiahrs = {
  <a href="https://twitter.com/mosiahrs_" alt="Twitter">
  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="30" />
  </a>
- <br><br><p>
-<!--<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&langs_count=7&theme=dracula"/>-->
-</p> 
-
-</div>
+ </div>
 
 
-
-<!---
-mosiahrs/mosiahrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
