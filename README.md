@@ -1,5 +1,12 @@
+<div align="center">
+<h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<img src="https://www.tecnoveste.com.br/wp-content/uploads/2016/08/resumo-semanal-do-tecnoveste.gif" width="400"/>
+
+</div>
+
 <div align="left">
- 
+<h2>📄 &nbsp; About me :</h2>
+
 ``` js
 const mosiahrs = {
     personal: {
@@ -43,7 +50,7 @@ const mosiahrs = {
 </p>
 
 ---
-
+### 🔥 &nbsp; My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
