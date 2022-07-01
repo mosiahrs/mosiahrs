@@ -1,7 +1,6 @@
 <div align="center">
-<h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hello World, I'm Mosiah.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <img src="https://www.tecnoveste.com.br/wp-content/uploads/2016/08/resumo-semanal-do-tecnoveste.gif" width="400"/>
-
 </div>
 
 <div align="left">
