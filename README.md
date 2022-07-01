@@ -60,7 +60,7 @@ const mosiahrs = {
 ---
 
 <div align="center">
-<h4>Contat-me</h4>
+<h4>Contat me</h4>
  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmosiahrs">
 <img src ="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" height="30"/></a>
  <a href="mailto:mosiahrabello@gmail.com" alt="Gmail">
