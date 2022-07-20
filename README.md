@@ -40,7 +40,7 @@ const mosiahrs = {
 
 ---
 
-<div align="left">
+<div align="center">
 <h3> 🛠 &nbsp;Languages and Tools :</h3>
 
 <p>
