@@ -1,16 +1,20 @@
-<div align="center">
+<div align="left">
 
 
 
-<h1 align="center">Hi, I'm Mosiah.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<img src="https://www.tecnoveste.com.br/wp-content/uploads/2016/08/resumo-semanal-do-tecnoveste.gif" width="400"/>
-</div>
+
+<h1 align="left">Hello, I'm Mosiah.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+I'm currently learning about web development, focusing on the JavaScript stack.<br>
+I am in constant learning, seeking self-taught knowledge.
+
+![índice](https://user-images.githubusercontent.com/100864562/180514300-340a940f-0078-4ca0-8c4d-6c60b860a11a.png)
 
 <div align="left">
-<h2>📄 &nbsp; About me : <img src="https://user-images.githubusercontent.com/100864562/180080277-025701e2-1712-4279-ab75-a848fcfa07f6.gif" width="45"></h2>
+<h2>📄 &nbsp; About me : </h2>
 
 <details>
-    <summary> Click for more info</summary>
+    <summary> Click for more info <img src="https://user-images.githubusercontent.com/100864562/180080277-025701e2-1712-4279-ab75-a848fcfa07f6.gif" width="45"></summary>
     
 ``` js
 const mosiahrs = {
@@ -43,7 +47,7 @@ const mosiahrs = {
 
 ---
 
-<div align="center">
+<div align="left">
 <h3> 🛠 &nbsp;Languages and Tools :</h3>
 
 <p>
@@ -62,7 +66,7 @@ const mosiahrs = {
 
 ---
 
-<div align="center">
+<div align="left">
 <h4>Contat me</h4>
  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmosiahrs">
 <img src ="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" height="30"/></a>
