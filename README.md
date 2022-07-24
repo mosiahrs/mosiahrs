@@ -5,7 +5,7 @@
 
 <h1 align="left">Hello, I'm Mosiah.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-I'm currently learning about web development, focusing on the JavaScript stack.<br>
+I'm currently learning about web development, focusing on the JavaScript/ NodeJS stack.<br>
 I am in constant learning, seeking self-taught knowledge.
 
 ![índice](https://user-images.githubusercontent.com/100864562/180514300-340a940f-0078-4ca0-8c4d-6c60b860a11a.png)
