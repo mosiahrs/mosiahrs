@@ -47,8 +47,10 @@
 
 <div align="center">
 
-<details align="left">
-    <summary>Personal info<img src="https://user-images.githubusercontent.com/100864562/180080277-025701e2-1712-4279-ab75-a848fcfa07f6.gif" width="45"></summary>
+
+<div align="left">
+<details>
+    <summary>Personal info</summary>
     
 ``` js
 const mosiahrs = {
@@ -78,4 +80,5 @@ const mosiahrs = {
 }
 ```
 </details>
+</div>
 </div>
