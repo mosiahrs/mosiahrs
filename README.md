@@ -29,8 +29,6 @@
 - 📃 I'm currently learning about web development
 - 💬 Learning about: JavaScript, NodeJS environment
 - 👯 I’m looking to collaborate on: JavaScript based projects
-
-</br>
 <div align="center">
 <div align="left">
 <details>
@@ -66,7 +64,7 @@ const mosiahrs = {
 </details>
 </div>
 </div>
-
+<br>
 
 <p align="center">
  <a href="#" alt="Mosiah Silva's github stats">
