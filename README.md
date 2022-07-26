@@ -31,26 +31,10 @@
 - 👯 I’m looking to collaborate on: JavaScript based projects
 
 </br>
-
-<p align="center">
- <a href="#" alt="Mosiah Silva's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosiahrs&theme=tokyonight&show_icons=true" />
- </a>
-</p>
-
-<p align="center">
- <a href="https://www.buymeacoffee.com/mosiah" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
- </a>
-</p>
-
-
 <div align="center">
-
-
 <div align="left">
 <details>
-    <summary>Personal info</summary>
+    <summary>⠀⠀⠀Personal info (click)</summary>
     
 ``` js
 const mosiahrs = {
@@ -82,3 +66,18 @@ const mosiahrs = {
 </details>
 </div>
 </div>
+
+
+<p align="center">
+ <a href="#" alt="Mosiah Silva's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mosiahrs&theme=tokyonight&show_icons=true" />
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://www.buymeacoffee.com/mosiah" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ </a>
+</p>
+
+
