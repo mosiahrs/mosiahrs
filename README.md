@@ -68,8 +68,11 @@ const mosiahrs = {
 
 <p align="center">
  <a href="#" alt="Mosiah Silva's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosiahrs&theme=tokyonight&show_icons=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&theme=tokyonight&layout=compact" />
  </a>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mosiahrs&theme=tokyonight&show_icons=true" /> 
 </p>
 
 <p align="center">
