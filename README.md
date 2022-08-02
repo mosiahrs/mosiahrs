@@ -68,11 +68,12 @@ const mosiahrs = {
 
 <p align="center">
  <a href="#" alt="Mosiah Silva's github stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mosiahrs&theme=tokyonight&show_icons=true" /> 
  </a>
 </p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mosiahrs&theme=tokyonight&show_icons=true" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiahrs&theme=tokyonight&layout=compact" />
 </p>
 
 <p align="center">
@@ -80,5 +81,7 @@ const mosiahrs = {
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
  </a>
 </p>
+
+
 
 
