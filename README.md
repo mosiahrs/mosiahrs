@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mosiahrs&theme=tokyonight" /><br/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mosiahrs&theme=tokyonight" width="350px" /><br/>
 
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48"/><img src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" width="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48" />
